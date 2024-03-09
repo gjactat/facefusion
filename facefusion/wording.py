@@ -7,7 +7,7 @@ WORDING : Dict[str, Any] =\
 	'creating_temp': 'Creating temporary resources',
 	'extracting_frames_fps': 'Extracting frames with {video_fps} FPS',
 	'analysing': 'Analysing',
-	'processing': 'Processing',
+	'processing': 'Processing...',
 	'downloading': 'Downloading',
 	'temp_frames_not_found': 'Temporary frames not found',
 	'compressing_image_succeed': 'Compressing image succeed',
